@@ -5,4 +5,4 @@ Ejercicio de asignaturas de aplicaciones HTML5. Primera práctica optativa. Calc
 
 Esta práctica consistirá en la creación de una calculadora que funcione como una SPA (single page application), compuesta por un documento HTML, una hoja de estilo CSS y un chero JavaScript. Detalles del enunciado en el programa de la asignatura.
 
-[Práctica Voluntaria: "Calculadora JS "]( http://dpayo.github.io/X-Nav-Practica-Calculadora. "Calculadora JS")
+[Práctica Voluntaria: "Calculadora JS "]( http://dpayo.github.io/X-Nav-Practica-Calculadora "Calculadora JS")
